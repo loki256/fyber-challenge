@@ -1,6 +1,6 @@
 ## Description
 
-Challenge for the Position of Scala Developer at Fyber.
+Challenge for the Position of Scala Developer at Fyber. (Challenge 1 "time series")
 
 ## Compiling
 
